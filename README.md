@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @quy
-- 👀 I’m interested in something
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on nothing
-- 📫 
+- 👋 Hi, I’m me
+- 👀 I’m interested in something.
+- 🌱 I’m currently learning everything.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 Want to know anything about me?
